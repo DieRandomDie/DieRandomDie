@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DieRandomDie
-- 👀 I’m interested in ... stuff that interests me.
-- 🌱 I’m currently learning ... JavaScript for the moment.
-- 💞️ I’m looking to collaborate on ... what's a "collaborate?"
-- 📫 How to reach me ... don't.
+- 👀 I’m interested in ... learning stuff.
+- 🌱 I’m currently learning ... Python and JavaScript.
+- 📫 How to reach me ... no.
 
 <!---
 DieRandomDie/DieRandomDie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
